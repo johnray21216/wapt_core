@@ -1,19 +1,17 @@
-﻿/*
- * Core Client Library
- * 
- * created 05-21-17
- * 
- * @johnray21216
- * 
- */
-
-using System;
+﻿​using System.Net.Sockets;
 using System.Net;
-using System.Net.Sockets;
-using System.Threading;
-using System.Text;
+using System;
+using WebSocketSharp;
 
+namespace WAPTCoreLib
+{
+    public class ClientConnect
+    {
+        public static void Main(string args[])
+        {
 
-public class StateObject {
-    
+           
+ 
+        }
+    }
 }
